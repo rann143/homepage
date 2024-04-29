@@ -72,13 +72,14 @@ header > p {
         padding: 3rem;
         margin-left: 0;
         max-width: 500px;
+        margin-right: 5%;
         /* border-top-right-radius: 5px;
         border-bottom-right-radius: 5px; */
     }
 
     .headshot-container {
         padding-right: 0;
-        padding-left: 0;
+        padding-left: 5%;
     }
 
     .headshot {
